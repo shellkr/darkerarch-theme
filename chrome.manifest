@@ -1,0 +1,5 @@
+skin browser      darkerarch chrome/browser/  appversion>24.9
+skin communicator darkerarch chrome/communicator/  appversion>24.9
+skin mozapps      darkerarch chrome/mozapps/  appversion>24.9
+skin global       darkerarch chrome/global/  appversion>24.9
+
