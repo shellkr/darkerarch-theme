@@ -5,11 +5,11 @@
 
   <Description about="urn:mozilla:install-manifest">
     <em:id>darkerarch@almehdin.com</em:id>
-    <em:version>0.0.1</em:version>
+    <em:version>0.9.3</em:version>
 	<em:skinnable>true</em:skinnable>
 	<em:type>4</em:type>
     <em:name>DarkerArch</em:name>
-    <em:description>Minimal theme for Firefox</em:description>
+    <em:description>A dark and minimal theme for Firefox</em:description>
     <em:creator>Almehdin</em:creator>
     <em:contributor></em:contributor>
     <em:internalName>darkerarch</em:internalName>
